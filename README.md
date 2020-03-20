@@ -1,0 +1,2 @@
+# bankpy
+CSV bankafschriften database
